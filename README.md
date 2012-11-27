@@ -1,4 +1,4 @@
 spud_media
 ==========
 
-Media Management gem for spud
+This repository has moved to: http://github.com/spud-rails/spud_media
